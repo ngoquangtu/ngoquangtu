@@ -17,11 +17,10 @@
 </div>
 
 <!---
-NaomiLe1811/NaomiLe1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 
-## Katso käärme syövän GitHub-kirjoitukseni
+## Git commit
 ![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
 ## My website 
 <div align="left"> 
