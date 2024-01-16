@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Katso käärme syövän GitHub-kirjoitukseni
 ![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
-## Peliblogini (game blogs)
+## My website 
 <div align="left"> 
-  <a href="https://thaoonguyenn1811.wixsite.com/website/post/the-sim-build-your-home-dream?fbclid=IwAR37g50JztqIbrpjSwY_pIWYpWT8xMUmJ1I9E1I5bL-Ud3NHAjQtW0iYyVI"_blank">
+  <a href="http://ngoquangtu.liveblog365.com/"_blank">
     The Sims - Build your dream home 
   </p>
     <a href="https://thaoonguyenn1811.wixsite.com/website/post/copy-of-inside-breathtaking-2-5d-side-scrolling?fbclid=IwAR05eGvbQGyM71GQ_KnMO9fby4jjBXpSwhgZuGmeufDRPxZPrmu-_4L3vzg"_blank">
