@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="![](https://komarev.com/ghpvc/?username=ngoquangtu&color=dc143c)" />
 
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Ngô+Quang+Tú" alt="Typing SVG" /></a>
