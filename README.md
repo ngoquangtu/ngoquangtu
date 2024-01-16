@@ -21,7 +21,7 @@
 --->
 
 ## Git commit
-![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ngoquangtu/ngoquangtu/blob/main/github-user-contribution.svg)
 ## My website 
 <div align="left"> 
   <a href="http://ngoquangtu.liveblog365.com/"_blank">
