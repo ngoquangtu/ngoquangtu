@@ -5,10 +5,10 @@
 </h1>
 
 - 👋 Hi, I’m @ngoquangtu
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in game,software developing,
+- 🌱 I’m currently learning C#,,Python,Js,TS,...
 - 💞️ I’m looking to collaborate on making video games
-- 📫 How to reach me: ngoquangtuhd@gmail.com
+- 📫 How to reach me: pixelbitesvn@gmail.com
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ng%C3%B4-quang-t%C3%BA-975883276/" target="_blank">
