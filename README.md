@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @ngoquangtu
 - 👀 I’m interested in game,software developing,
 - 🌱 I’m currently learning C#,,Python,Js,TS,...
-- 💞️ I’m looking to collaborate on making video games
+- 💞️ I’m looking to collaborate on making video games,building  fantasy website
 - 📫 How to reach me: pixelbitesvn@gmail.com
 
 <div align="left"> 
