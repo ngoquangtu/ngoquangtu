@@ -8,7 +8,7 @@
 - 👀 I’m interested in game,software developing,
 - 🌱 I’m currently learning Node.js,Python,Js,TS,...
 - 💞️ I’m looking to collaborate on making video games,building  fantasy website
-- 📫 How to reach me: pixelbitesvn@gmail.com
+- 📫 How to reach me: ngoquangtuhd@gmail.com
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ng%C3%B4-quang-t%C3%BA-975883276/" target="_blank">
